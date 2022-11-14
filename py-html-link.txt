@@ -1,0 +1,1 @@
+https://blog.devgenius.io/how-to-run-python-code-in-your-browser-69b4044b803a#:~:text=Installation%201%20Add%20PyScript%20components%20such%20as%20%3Cpy-script%3E,allows%20the%20user%20to%20write%20code%20in%20it.
